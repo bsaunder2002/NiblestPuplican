@@ -215,7 +215,7 @@ Windows 7</y:NodeLabel>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="170.2890625" x="-22.264972686767578" y="113.2784423828125">T100
 dual? core, 4GB RAM, 30GB
-Media laptop</y:NodeLabel>
+Media laptop, Win 8.1</y:NodeLabel>
           <y:SVGNodeProperties usingVisualBounds="true"/>
           <y:SVGModel svgBoundsPolicy="0">
             <y:SVGContent refid="9"/>
@@ -309,7 +309,7 @@ default router, DNS</y:NodeLabel>
     <node id="n13">
       <data key="d6">
         <y:SVGNode>
-          <y:Geometry height="68.09896300643754" width="71.3025779316042" x="1006.9630814802009" y="13.94592853750737"/>
+          <y:Geometry height="68.09896300643754" width="71.3025779316042" x="878.4930499344597" y="-16.030412156498926"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="66.056640625" x="2.6229686533021095" y="72.09896300643754">Switch gig</y:NodeLabel>
@@ -323,7 +323,7 @@ default router, DNS</y:NodeLabel>
     <node id="n14">
       <data key="d6">
         <y:SVGNode>
-          <y:Geometry height="46.61100783261762" width="56.51458990536298" x="1013.95342059692" y="-132.36125377450435"/>
+          <y:Geometry height="46.61100783261762" width="56.51458990536298" x="885.4833890511787" y="-162.33759446851064"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="66.056640625" x="-4.771025359818509" y="50.61100783261762">Switch gig</y:NodeLabel>
@@ -337,7 +337,7 @@ default router, DNS</y:NodeLabel>
     <node id="n15">
       <data key="d6">
         <y:SVGNode>
-          <y:Geometry height="68.09896300643754" width="71.3025779316042" x="1006.9630814802007" y="199.14575118296568"/>
+          <y:Geometry height="68.09896300643754" width="71.3025779316042" x="878.4930499344595" y="169.1694104889594"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" modelName="sandwich" modelPosition="s" textColor="#000000" visible="true" width="66.056640625" x="2.6229686533021095" y="72.09896300643754">Switch gig</y:NodeLabel>
